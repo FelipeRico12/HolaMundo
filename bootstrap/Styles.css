@@ -1,0 +1,76 @@
+.posicion{
+    margin: auto;
+    margin-top: 20px;
+}
+
+.tamaño {
+    font-size: 18px;
+}
+
+.tamaño:hover {
+    font-size: 25px;
+}
+
+.Tamaño {
+    font-size: 38px;
+}
+
+.color:hover {
+    color: rgb(161, 216, 193);
+    background-color: rgba(91, 11, 99, 0.712);
+}
+
+.fuente:hover {
+    color: teal;
+    background-color: rgba(31, 6, 78, 0.712);
+}
+
+#contenedor1{
+    
+    Text aling- center
+
+}
+
+.contenedor2{
+    display: inline-flex;
+}
+
+.contenedor3{
+    display: inline-flex
+}
+
+.espacio{
+    padding: 20px 10px 20px 10px;
+}
+
+#video1{
+    padding: 5px 50px 5px 30px;
+    width: ;
+    height: ;
+}
+
+
+.videoTamaño{
+    
+
+    width: 100%;
+    height: 100%;   
+    padding: 15px 20px 15px 20px
+}
+
+p{
+    margin: 40px 18px 10px 40px;
+    border: solid rgb(11, 70, 97);
+    text-align: justify;
+}
+
+
+
+body{
+
+    background-image: -webkit-linear-gradient(top,#cc3c8bce, #c003972d);
+    background-image: -moz-linear-gradient(top, #cc3c8bce, #c003972d);
+    background-image: -ms-linear-gradient(top,#cc3c8bce#c003972d);
+    background-image: -o-linear-gradient(top,#cc3c8bce,#c003972d);
+    background-image: linear-gradient(to bottom, #cc3c8bce, #c003972d);
+}

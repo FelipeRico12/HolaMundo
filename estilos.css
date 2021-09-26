@@ -1,0 +1,56 @@
+.colores {
+    color: rgba(182, 150, 150, 0.815);
+    background-color: rgb(19, 6, 54);
+}
+
+.fondo {
+    color: rgba(182, 150, 150, 0.815);
+    background-color: rgb(19, 6, 54);
+}
+
+.color:hover {
+    color: rgb(189, 116, 67);
+    background-color: rgba(31, 6, 78, 0.712);
+}
+.tamaño {
+    font-size: 28px;
+}
+.tamaño:hover {
+    font-size: 55px;
+}
+
+#imagen1{
+    padding: 5px 10px 5px 30px;
+    width: ;
+    height: ;
+}
+
+.contenedor1{
+    display: inline-flex;
+}
+
+.contenedor2{
+    display: inline-flex;
+}
+
+p{
+    margin: 40px 18px 10px 40px;
+    border: solid rgb(11, 70, 97);
+    text-align: justify;
+}
+
+.videoTamaño{
+
+    padding: 15px 20px 15px 100px
+}
+
+
+
+body{
+
+    background-image: -webkit-linear-gradient(top,#cc3c8bce, #03a4c0);
+    background-image: -moz-linear-gradient(top, #cc3c8bce, #03a4c0);
+    background-image: -ms-linear-gradient(top,#cc3c8bce,#03a4c0);
+    background-image: -o-linear-gradient(top,#cc3c8bce,#03a4c0);
+    background-image: linear-gradient(to bottom, #cc3c8bce, #03a4c0);
+}
